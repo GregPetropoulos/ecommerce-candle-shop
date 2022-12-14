@@ -6,6 +6,12 @@ node_modules
 /.pnp
 .pnp.js
 
+
+#resources
+links.txt/
+/links.txt
+links.txt
+
 # testing
 /coverage
 

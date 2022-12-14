@@ -3,7 +3,7 @@ import { Card } from 'react-bootstrap';
 
 const Product = ({ product }) => {
   return (
-    <Card className='my-3 p-3 rounded'>
+    <Card className='my-8 p-3 rounded h-auto'>
       <a href={`/product/${product._id}`} alt=''>
         <Card.Img src={product.image} variant='top'></Card.Img>
       </a>
