@@ -27,7 +27,7 @@ const products = [
     productDimensions: ' 4.75"W x 8.5"H',
     operatingTime: '60 Hours',
     material: 'Paraffin Wax',
-    brand: 'Yankee',
+    brand: 'Village',
     category: 'Home & Kitchen',
     price: 27.58,
     countInStock: 7,
@@ -36,7 +36,7 @@ const products = [
   },
   {
     _id: '3',
-    name: 'Spiced Pumpkin',
+    name: 'Village Candle Spiced Pumpkin',
     image: '/images/pumpkin.jpg',
     description:
       'Village Candle Spiced Pumpkin Large Apothecary Jar, Scented Candle, 21.25 oz',
@@ -94,7 +94,7 @@ const products = [
     image: '/images/lemonlavender.jpg',
     description:
       'Scented, Classic 22oz Large Jar Single Wick Candle, Over 110 Hours of Burn Time',
-      color: 'Lavender',
+    color: 'Lavender',
     itemWeight: '1.3 Pounds',
     productDimensions: '4"W x 6.6"H',
     operatingTime: '150 Hours',
